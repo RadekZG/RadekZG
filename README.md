@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2025 <br>📚 I'm currently learning react <br>🎯 Goals: Build my first full-stack web app <br>🎲 Fun fact: Break less code than I fix</p>
+<p align="left">✨ Creating bugs since 2025 <br>📚 I'm currently learning react <br>🎯 Goals: Build my first full-stack web app <br>🎲 Fun fact: My code sometimes surprises even me fix</p>
 
 ###
 
